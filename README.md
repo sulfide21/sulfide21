@@ -20,7 +20,7 @@ Right now I'm working through **machine learning and data analysis**.
 
 - 🧪 I learn by building something and then breaking it. If it works, I want to know *why*, which usually means running it again with one piece changed.
 - 📉 My favourite thing I've done is a correlation test I ran to **challenge my own argument** — it came back null, so I narrowed the claim instead of hiding the result.
-- 🎮 Helldivers 2 is responsible for at least one of the repos above.
+- 🎮 Helldivers 2 is my favorite game
 - 🌏 Bali → Telkom University. Learning English alongside everything else, so plain words over clever ones.
 
 ### Reach me
