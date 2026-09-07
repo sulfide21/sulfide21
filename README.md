@@ -8,15 +8,15 @@ bad row, the quarantine table for records that won't parse, the pipeline that
 gives the same answer when you run it twice.
 
 Right now I'm working through **machine learning and data analysis**.
-|---|---|
-### Tools
 
-**Python · SQL** — the two I actually think in
+## Tools
+
+**Python · SQL** — core skills
 **Airflow · dbt · DuckDB · Kafka** — orchestration, modelling, streaming
 **PyTorch** — anomaly detection and feature learning
 **Kotlin · JavaScript** — when the thing needs to run on a phone or in a browser
-|---|---|
-### A bit more
+
+## A bit more
 
 - 🧪 I learn by building something and then breaking it. If it works, I want to know *why*, which usually means running it again with one piece changed.
 - 📉 My favourite thing I've done is a correlation test I ran to **challenge my own argument** — it came back null, so I narrowed the claim instead of hiding the result.
