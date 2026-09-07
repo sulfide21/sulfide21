@@ -9,15 +9,7 @@ gives the same answer when you run it twice.
 
 Right now I'm working through **machine learning and data analysis**.
 
-### What I've built
-
 | | |
-|---|---|
-| [**jobstreet-de-pipeline**](https://github.com/sulfide21/jobstreet-de-pipeline) | 1,380 job ads a day → Airflow → dbt star schema → Kafka → Power BI. Unparseable salaries go to a quarantine table instead of being guessed. |
-| [**dino-ae-anomaly-detection**](https://github.com/sulfide21/dino-ae-anomaly-detection) | Finding factory defects without ever showing the model a defect. A tiny autoencoder over frozen DINOv2 features hit 0.972 AUROC — beating a purpose-built SOTA transformer. |
-| [**A Fate Made Elsewhere**](https://sulfide21.github.io/a-fate-made-elsewhere/) | A data story on Pacific islands and a climate they contributed 0.05% to. Every headline number is re-checked against its source by a script. |
-| [**YtMusic**](https://github.com/sulfide21/YtMusic) | Android app that saves YouTube audio as tagged MP3s. yt-dlp and ffmpeg run on the phone — no server, no account. |
-| [**Stratagem Hero**](https://sulfide21.github.io/hd2-stratagem-hero/) | The Helldivers 2 arcade minigame, in the browser. No build step, no dependencies. Playable right now. |
 
 ### Tools
 
